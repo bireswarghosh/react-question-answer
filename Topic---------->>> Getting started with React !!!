@@ -1,0 +1,62 @@
+Topic---------->>> Getting started with React !!!
+
+
+
+!!!!Lecture !!!!
+
+
+1 React is a _____ ?
+ 
+ Javascript library 
+ 
+   
+2  What are the advantages of using React?
+
+. React has reusable components: Code re-use helps make your apps easier to develop and easier to maintain. They also help you implement a consistent look and feel across the whole project.
+.  React improves performance due to VDOM.
+
+ 
+
+
+3 Which terminal command is used to remove the directory?
+ 
+rmdir
+
+4 Write a command to move one level up from the current directory?
+
+cd
+ 
+ 
+ 
+!!!! Practice!!!!
+
+
+1  What is a React in a MVC architecture?
+ View 
+ 
+2 Which command is used to print the current working directory?
+pwd
+
+3 Write command to move the directory one level up from the current directory.
+cd ..
+
+4 React.js was orginally created by?
+Jordan Walke
+
+5 How is Real DOM different from Virtual DOM?
+ Manipulating the real DOM is slow. Manipulating the virtual DOM is much faster.
+  A virtual DOM object is a representation of a DOM object, like a lightweight copy.
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
