@@ -45,16 +45,21 @@ Jordan Walke
 
 5 How is Real DOM different from Virtual DOM?
  Manipulating the real DOM is slow. Manipulating the virtual DOM is much faster.
-  A virtual DOM object is a representation of a DOM object, like a lightweight copy.
+  A virtual DOM object is a representation of a DOM object, like a lightweight copy.  
   
-    
-
-
-
-
-
-
-
+  
+  
+           |
+           |
+           |
+          \|/
+|=|================================|=|
+|=|     # THANK YOU FOR SEE IT     |=|
+|=|         # PLEASE FOLLOW        |=|
+|=|   # RATE MY REPOSITORY ⭐ !!!  |=|
+|=|=================================|=|
+ 
+ 
 
 
 
