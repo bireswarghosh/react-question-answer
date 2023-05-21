@@ -83,7 +83,7 @@ process.stdin.on('data', function (chunk) {
         process.stdout.write(ans[i]+'\n');
     }
     process.exit();
-});  
+});
 
 
 
