@@ -1,0 +1,141 @@
+
+Topic ----> Hello World !!!!
+
+
+
+
+Question-1)   What does Babel do? 
+ 
+
+ Solution -:   Compiles JSX into Javascript                                                                                                                                                                          1  B
+ 
+
+
+Question-2)  What does the webpack do?
+ 
+
+ Solution -: A module bundler   
+
+
+
+
+Question-3)   At most, how many default export statements can a module have?
+  
+
+ Solution -:   1 
+
+
+
+
+Question-4) Is JSX necessary to work with React?
+
+ 
+  Solution -:  False  
+
+
+
+
+Question-5) How do you call a function fetch() in JSX?
+
+ 
+  Solution -:    {fetch()}
+
+
+
+
+
+Question-6) Which of the following can be used to check if a user is logged in or not?
+
+
+  Solution :    <div>{loggedIn ? username : 'Hello World'}</div>
+
+
+
+
+ 
+
+
+
+            !!!!!! Assignment !!!!!!
+
+
+
+Question-1)   Everything in react is a __________
+ 
+ 
+
+ Solution -:   component                                                                                                                                                                          1  B
+ 
+
+
+Question-2) Choose the correct syntax for importing.
+
+Options
+
+
+This problem may have one or more correct answers
+
+import GIVEN_NAME from ADDRESS
+import { NAMED_PARA } from ADDRESS
+import GIVEN_NAME, { NAMED_PARA, ... } from ADDRESS
+import required {NAMED_PARA } from ADDRESS
+ 
+
+ Solution -:    import GIVEN_NAME from ADDRESS
+import { NAMED_PARA } from ADDRESS
+import GIVEN_NAME, { NAMED_PARA, ... } from ADDRESS
+
+
+
+
+Question-3) Which tool is used to take JSX and convert it into createElement calls?
+ 
+Options
+   
+JSX editor
+Browser
+ReactDOM
+Babel
+  
+
+ Solution -:   Babel 
+
+
+
+
+Question-4) Which among the following package contains render() function that renders a react element tree to the DOM?
+
+ 
+  Solution -:    ReactDOM
+
+
+
+
+Question-5) What is the use of render() in React?
+
+ 
+  Solution -:    It renders a React element into the DOM in the supplied container and returns a reference to the component.
+
+Further Readings: https://reactjs.org/docs/rendering-elements.html
+
+
+
+
+
+  
+  
+           |
+           |
+           |
+          \|/
+|=|================================|=|
+|=|     # THANK YOU FOR SEE IT     |=|
+|=|         # PLEASE FOLLOW        |=|
+|=|   # STAR MY REPOSITORY ⭐ !!!   |=|
+|=|================================|=|
+ 
+ 
+
+
+
+
